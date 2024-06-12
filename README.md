@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/user4729cz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user4729cz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautam-chauhan-008ba6225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-chauhan-008ba6225" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user4729cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4729cz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamgc&show_icons=true&locale=en&layout=compact" alt="gautamgc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamgc&" alt="gautamgc" /></p>
+
